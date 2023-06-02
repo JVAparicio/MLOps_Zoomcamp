@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aparicio/MLOps_Zoomcamp/Homework/Week2/mlruns/697639556683467188/a5c87ef8a4fb41009c183e744da9e288/artifacts
+end_time: 1685720411497
+entry_point_name: ''
+experiment_id: '697639556683467188'
+lifecycle_stage: active
+run_id: a5c87ef8a4fb41009c183e744da9e288
+run_name: sassy-goose-253
+run_uuid: a5c87ef8a4fb41009c183e744da9e288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685720405988
+status: 3
+tags: []
+user_id: aparicio

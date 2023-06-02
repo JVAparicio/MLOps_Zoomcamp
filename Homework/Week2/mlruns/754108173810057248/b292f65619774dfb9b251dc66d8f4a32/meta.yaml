@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aparicio/MLOps_Zoomcamp/Homework/Week2/mlruns/754108173810057248/b292f65619774dfb9b251dc66d8f4a32/artifacts
+end_time: 1685720510913
+entry_point_name: ''
+experiment_id: '754108173810057248'
+lifecycle_stage: active
+run_id: b292f65619774dfb9b251dc66d8f4a32
+run_name: mysterious-slug-32
+run_uuid: b292f65619774dfb9b251dc66d8f4a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685720505534
+status: 3
+tags: []
+user_id: aparicio
