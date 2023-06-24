@@ -161,3 +161,6 @@ cython_debug/
 
 #FILES
 /data
+/Homework/Week2/Notebooks/
+/Homework/Week2/mlflow.db
+/Homework/Week2/notes.md
